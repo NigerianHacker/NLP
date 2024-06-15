@@ -1,4 +1,4 @@
----
+--- Followed the ’Attention Is All You Need’ paper
 #### 1. Transformer Model for Machine Translation (English to German)
 - **Technologies:** PyTorch, Europarl Parallel Corpus, NLTK, 
 - **Description:** Engineered a transformer-based machine translation system without using pre-trained weights; managed full lifecycle from model architecture design to training and evaluation.
